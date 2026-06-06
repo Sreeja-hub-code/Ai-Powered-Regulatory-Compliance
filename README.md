@@ -87,4 +87,4 @@ streamlit run apps.py
 
 Open Source Project.
 
-Built with ❤️ using Streamlit + Groq.
+Built with using Streamlit + Groq.
